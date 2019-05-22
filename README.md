@@ -14,7 +14,7 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  ```
  
  To get this repository, please run:
- git clone --recurse-submodules https://github.com/cyrusmvahid/HKUSTLectures.git
+ git clone https://github.com/cyrusmvahid/aim-418-labs.git
  
 # Study Materials:
 - gluon tutorials: http://mxnet.incubator.apache.org/versions/master/tutorials/index.html 
@@ -23,3 +23,7 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
   - https://github.com/cyrusmvahid/GluonBootcamp
   - https://github.com/cyrusmvahid/KDD18-Gluon
   - https://github.com/cyrusmvahid/MXNetWorkshopHongKong
+  - https://github.com/cyrusmvahid/HKUSTLectures
+  - https://github.com/cyrusmvahid/HUBCourse
+  
+  
