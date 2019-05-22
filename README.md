@@ -31,6 +31,8 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  - Lab 3: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab03-autograd.ipynb
  - Lab 4: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab04-nn.ipynb
  - Lab 5: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab05-training.ipynb
- - LSTM: 
+ - LSTM Code: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lstm/bidirectional_code.ipynb
+ -LSTM Diagrams: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lstm/bidirectional_diags.ipynb
+ - LSTM Quiz: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lstm/bidirectional_quiz.ipynb
  
  
