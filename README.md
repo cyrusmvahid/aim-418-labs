@@ -26,4 +26,11 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
   - https://github.com/cyrusmvahid/HKUSTLectures
   - https://github.com/cyrusmvahid/HUBCourse
   
-  
+ # Running on Collab
+ - Lab 2: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab02-ndarray.ipynb
+ - Lab 3: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab03-autograd.ipynb
+ - Lab 4: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab04-nn.ipynb
+ - Lab 5: https://colab.research.google.com/github/cyrusmvahid/aim-418-labs/blob/master/collab-cu100/lab05-training.ipynb
+ - LSTM: 
+ 
+ 
